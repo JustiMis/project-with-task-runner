@@ -256,15 +256,10 @@
   
   .row {
 	flex-direction: column;
-	width: 100vh;
-	align-items: center;
+	width: 100%;
+	text-align: center;
 	margin: 0;
 	
-  }
-  
-  .col-4 {
-	text-align: justify;
-	width: 100%;
   }
   
   .page-footer {
