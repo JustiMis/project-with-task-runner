@@ -148,10 +148,6 @@
   
   /* Portfolio */
   
-  .portfolio-image {
-	min-width: 290px;
-  }
-  
   .portfolio-image img {
 	width: 100%;
 	object-fit: cover;
@@ -262,14 +258,13 @@
 	flex-direction: column;
 	width: 100vh;
 	align-items: center;
-	max-width: 397px;
 	margin: 0;
 	
   }
   
   .col-4 {
 	text-align: justify;
-	width: 100vh;
+	width: 100%;
   }
   
   .page-footer {
